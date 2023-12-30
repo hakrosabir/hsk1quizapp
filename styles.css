@@ -21,6 +21,14 @@ body {
   
 }
 
+
+#question{
+    
+  font-size: xx-large;
+  margin: 2rem;
+}
+
+
 .answer-options {
   display: flex;
   flex-direction: column;
